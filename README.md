@@ -10,4 +10,11 @@ Conocimientos en : HTML | REACT | REDUX | MONGODB | MONGOOSE | EXPRESS | NODEJS 
 ### CONTACTAME:
 
 Correo: emivigil12@gmail.com
+
+
+
 Telefono: 3515111449
+
+
+
+[Linkedin](https://www.linkedin.com/in/emilio-vigil-b764201a1/)
